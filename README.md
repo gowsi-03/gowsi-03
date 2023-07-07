@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on **[Project](https://)** -->
 
-- 📚 I’m currently learning **React Js**
+- 📚 I’m currently learning **React Js** and **Angular**
 
 - 👨‍💻 Glance of my skills and projects are available at **[My Portfolio](https://gowsi-03.github.io/)**
 
